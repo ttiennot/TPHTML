@@ -18,6 +18,11 @@
 
 
 
+#Corps{
+
+
+
+}
 
 
 #PiedDePage{
@@ -25,14 +30,15 @@ position:relative;
 background-color: rgb(32, 233, 14);
 font-size: 60px;
 text-align: center;
-
 }
 
 
-#Menu
-{
+
+#Menu{
+position: absolute;
+top: 0px;
 background-color: fuchsia;
-width: 30%;
+width: 25%;
 height: 100%;
 
 
