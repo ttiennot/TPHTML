@@ -1,0 +1,24 @@
+
+#bandeau{
+    font-size: 60px;
+    background-color: rgba(10, 255, 255, 0.993);
+    text-align: center;
+}
+
+#contenu{
+    position:relative;
+    background-color: yellow;
+    font-size: 50px;
+    height: 450px;
+    text-align: center;
+    line-height: 450px; ;
+    
+}
+
+
+#PiedDePage{
+position:relative;
+background-color: rgb(32, 233, 14);
+font-size: 60px;
+text-align: center;
+}

@@ -1,6 +1,6 @@
 
 #bleu{
-    font-size: 60px;
+    font-size: 20px;
     background-color: rgba(10, 255, 255, 0.993);
     text-align: center;
 }
@@ -8,12 +8,8 @@
 #yellow{
     position:relative;
     background-color: yellow;
-    font-size: 50px;
-    padding-left: 0%;
-    height: 450px;
-    text-align: center;
-    line-height: 450px; ;
-    
+    font-size: 20px;
+
 }
 #bandeau{
 
@@ -27,12 +23,4 @@
 
 
     
-}
-
-#PiedDePage{
-position:relative;
-background-color: rgb(32, 233, 14);
-font-size: 60px;
-text-align: center;
-
 }

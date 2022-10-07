@@ -1,0 +1,66 @@
+
+#bandeau{
+    font-size: 60px;
+    background-color: rgba(10, 255, 255, 0.993);
+    text-align: center;
+}
+
+#contenu{
+    position:relative;
+    background-color: yellow;
+    font-size: 50px;
+    height: 450px;
+    
+    line-height: 450px; 
+    
+}
+
+p{
+    font-size: 25px;
+    
+}
+
+#PiedDePage{
+position:relative;
+background-color: rgb(32, 233, 14);
+font-size: 60px;
+text-align: center;
+}
+
+
+
+#Menu1{
+position: absolute;
+top: 0%;
+background-color: rgb(2, 131, 37);
+width: 25%;
+height: 50%;
+text-align: center;
+line-height: 225px;
+
+
+}
+#Menu2{
+    position: absolute;
+    bottom: 0px;
+    background-color: rgb(128, 15, 128);
+    width: 25%;
+    height: 50%;
+    font-size: 50px;
+    text-align: center;
+    line-height: 225px;
+    
+    
+    }
+
+#blocNews{
+    float: right;
+    top: 0px;
+    background-color: red;
+    width: 10%;
+    height: 35%;
+    font-size: 50px;
+    text-align: center;
+    line-height: 50px;  
+
+    }
